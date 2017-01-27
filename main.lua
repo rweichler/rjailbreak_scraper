@@ -18,7 +18,7 @@ function main()
     local posts = listing.data.children
 
     for i,v in ipairs(posts) do
-        process_post(v.data.title, v.data.url, v.data.created)
+        process_post(v.data.title, 'http://reddit.com'..v.data.permalink, v.data.created)
     end
 
     local f = io.open(output_filename, 'w')
