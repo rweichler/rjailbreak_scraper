@@ -30,6 +30,8 @@ local good_words = {
     '%[release%]',
     '%[upcoming%]',
     '%[news%]',
+    '%[update%]',
+    '%[beta%]',
 }
 
 function process_post(title, url, time)

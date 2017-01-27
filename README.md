@@ -1,4 +1,4 @@
-This filters everything from [/r/jailbreak](http://reddit.com/r/jailbreak) except [News], [Release], and [Update] posts.
+This filters everything from [/r/jailbreak](http://reddit.com/r/jailbreak) except [News], [Release], [Upcoming], [Beta], and [Update] posts.
 
 It is used to find new content for [/r/iOS_Jailbreak](http://reddit.com/r/iOS_Jailbreak).
 
