@@ -4,4 +4,6 @@ It is used to find new content for [/r/iOS_Jailbreak](http://reddit.com/r/iOS_Ja
 
 Requirements to run this are a unix system, some version of Lua and cURL. Add this to a cron job or something.
 
+Eventual goals: twitter bot?
+
 Output can be found here: [http://r333d.com/rjailbreak.html](http://r333d.com/rjailbreak.html)
